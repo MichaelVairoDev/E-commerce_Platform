@@ -62,7 +62,7 @@ _Proceso de pago seguro con integración PayPal_
 1. **Clonar el repositorio**
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/MichaelVairoDev/E-commerce_Platform.git
 cd E-commerce_Platform
 ```
 
